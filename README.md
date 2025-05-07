@@ -5,6 +5,7 @@ This project presents an interactive Tableau dashboard built to explore sales da
 ## 🧰 Tools Used
 
 - Tableau Desktop
+- Microsoft Excel Online
 
 ## 🔍 Key Features
 
@@ -15,7 +16,8 @@ This project presents an interactive Tableau dashboard built to explore sales da
 
 ## 🗂️ Files Included
 
-- `Tableau_SalesInsights_Interactive_Dash.twbx` – Packaged Tableau workbook  
+- `Tableau_SalesInsights_Interactive_Dash.twbx` – Packaged Tableau workbook
+- `Portfolio_Project_Tableau_AIMS_grid.jpg` - AIMS grid designed to pose problem statement in order to design interactive dashboard
 
 ## 🚀 How to Use
 
