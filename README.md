@@ -1,2 +1,32 @@
-# Fictional_company_sales_insights_tableau
-Interactive Tableau dashboard showcasing sales insights for a fictional Indian company, highlighting regional performance, top products, and monthly trends to support data-driven decisions.
+# 📊 Sales Insights Dashboard – Tableau Project (Fictional Indian Company)
+
+This project presents an interactive Tableau dashboard built to explore sales data for a fictional company based in India. The dashboard provides actionable insights into regional sales performance, product trends, and monthly revenue patterns, designed to assist stakeholders in making data-driven decisions.
+
+## 🧰 Tools Used
+
+- Tableau Desktop
+
+## 🔍 Key Features
+
+- 📍 **Regional Breakdown**: Visualize performance by Indian states and cities  
+- 🛒 **Top Products**: Identify high-performing products and categories  
+- 📈 **Monthly Trends**: Monitor sales performance over time  
+- 📦 **Customer Segments**: Understand customer behavior by type and region  
+
+## 🗂️ Files Included
+
+- `Tableau_SalesInsights_Interactive_Dash.twbx` – Packaged Tableau workbook  
+
+## 🚀 How to Use
+
+1. Open `Tableau_SalesInsights_Interactive_Dash.twbx` in Tableau Desktop.  
+2. Interact with filters, dropdowns, and charts to explore sales patterns.  
+3. Modify the dataset or visualizations to suit other fictional or real-world business scenarios.
+
+## 📌 Use Case
+
+This dashboard can was created to showcase my understanding of creation and deployment of interactive Tablea dahsboards.
+
+---
+
+📬 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jordan-johnson2195) or explore more of my data projects!
